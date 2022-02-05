@@ -1,2 +1,2 @@
 # JavaProject
-All Jaja project
+All Java project
