@@ -16,5 +16,9 @@ public interface CryptoService {
 	 */
 	List<String> searchCryptoLast24hHistory();
 	
-	
+	/**
+	 * Get exchange info and crypto info.
+	 * @return
+	 */
+	List<String> exchangeInfo();
 }

@@ -21,7 +21,15 @@ public class CryptoServiceImpl  implements CryptoService{
 		// TODO Auto-generated method stub
 		
 		List<String> test = new ArrayList<>();
-		test.add("Well come!!!");
+		test.add("Well come 24h history !");
+		
+		return test;
+	}
+
+	@Override
+	public List<String> exchangeInfo() {
+		List<String> test = new ArrayList<>();
+		test.add("Well come, exchange info !");
 		
 		return test;
 	}
