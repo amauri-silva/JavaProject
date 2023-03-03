@@ -21,4 +21,15 @@ public class CryptoControllerIndices {
 		//List<String> cryptoList = this.cryptoService.searchCryptoLast24hHistory();
 		return new ArrayList<>();
 	}
+
+
+	public String UnknownEndPoint(){
+		return "Unemplemented method!"
+	}
+	
+	public String getFullName(String name, String secondName){
+
+		return String.concat(name,secondName);
+	}
+
 }
