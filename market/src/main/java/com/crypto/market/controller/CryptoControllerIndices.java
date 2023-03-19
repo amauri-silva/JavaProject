@@ -16,8 +16,7 @@ public class CryptoControllerIndices {
 
 	private String name;
 	private String secondName;
-	private int age;
-
+	
 	private List<Boolean> itHas;
 
 	
