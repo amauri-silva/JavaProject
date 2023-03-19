@@ -8,7 +8,6 @@ import org.springframework.context.annotation.Configuration;
 @SpringBootApplication(scanBasePackages = "com.crypto.market")
 public class MarketApplication {
 
-	private String name;
 	
 	public static void main(String[] args) {
 		SpringApplication.run(MarketApplication.class, args);
