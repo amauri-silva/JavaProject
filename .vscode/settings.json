@@ -1,0 +1,14 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "previewSeqDiag": {
+        "mermaid": {
+          "fixedBackgroundColor": "#f6f6ff",
+          "fixedStyle": "dark"
+        },
+        "mscgen": {
+          "fixedNamedStyle": "fountainpen",
+          "horizontalAlignment": "fixed"
+        }
+      },
+      "java.configuration.updateBuildConfiguration": "interactive"
+}
